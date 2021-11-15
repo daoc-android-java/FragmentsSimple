@@ -8,6 +8,10 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af4ce0c025385f4d674c3fbc90c74bbd/slidingpanelayout-1.0.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af4ce0c025385f4d674c3fbc90c74bbd/slidingpanelayout-1.0.0/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af4ce0c025385f4d674c3fbc90c74bbd/slidingpanelayout-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ce344cfe34084594ff2f281312aeec59/transformed/slidingpanelayout-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/56d3436542761c87b3a7c38d1c2e3d4f/transformed/slidingpanelayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/56d3436542761c87b3a7c38d1c2e3d4f/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/56d3436542761c87b3a7c38d1c2e3d4f/transformed/slidingpanelayout-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
